@@ -1,6 +1,6 @@
 # SQL-Mentorship-Project
 
-![E67C8BF4-958D-486F-A10A-D926C94E7FFC_1_105_c](https://user-images.githubusercontent.com/122326425/211589698-748d10ea-6a49-48b1-afed-16bd25c02fc7.jpeg)
+![48CF8162-C0F0-4512-AFF4-32B463883B18](https://user-images.githubusercontent.com/122326425/211591051-092ebcbc-25d8-4d2b-ab44-7c525b6d433d.jpeg)
 
 ![BD0FB147-9577-4BA5-870F-EA6B8AE9C2C2_1_105_c](https://user-images.githubusercontent.com/122326425/211589813-654ed2ac-9a95-4c82-b901-847ac8bc4eb9.jpeg)
 
