@@ -66,7 +66,7 @@ SELECT * FROM dept_manager
 SELECT * FROM retirement_info2
 
 --SELECT FROMs
--- 1. Retrieve the emp_no, first_name, and last_name columns from the
+-- 1. Retrieve the emp_no, first_name, last_name and birth_date columns from the
 -- Employees table.
 SELECT emp_no, first_name, last_name
 FROM employees
@@ -77,7 +77,7 @@ SELECT title, from_date, to_date
 FROM titles;
 
 -- 3. Create a new table using the INTO clause.
--- 4. Join both tables on the primary key.
+-- 4. Join tables "employees" and "titles".
 SELECT e.emp_no, e.first_name, e.last_name, t.title, t.from_date, t.to_date
 -- INTO retirement_info2
 FROM employees e
@@ -87,7 +87,7 @@ WHERE birth_date BETWEEN '1952-01-01' AND '1955-12-31'
 ORDER BY e.emp_no;
 
 SELECT * FROM retirement_info2;
---5. Use Dictinct with Orderby to remove duplicate rows
+--5. Use Dictinct ON with Order by to remove duplicate rows
 -- filter to_date to '9999-01-01'
 -- Create a Unique Titles table using the INTO clause.
 SELECT DISTINCT ON (emp_no) emp_no, first_name, last_name, to_date, title
