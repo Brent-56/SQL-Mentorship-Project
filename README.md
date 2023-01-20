@@ -2,7 +2,7 @@
 
 ###Overview
 This task is designed to showcase some of my fundamental SQL skills. 
-Through SQL programming my goal is to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. This can be done through the usage of Data manipulation and Data Definition Language. 
+Through SQL programming my goal is to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. This can be done through the usage of SQL querying. 
 
 
 ![35937A9A-16DC-4B18-952D-481885604AB2](https://user-images.githubusercontent.com/122326425/211596599-ab40cabd-3da3-4d5e-aa89-b3e211d20216.jpeg)
